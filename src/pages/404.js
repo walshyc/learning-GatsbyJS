@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/Layout"
 import { Link } from "gatsby"
-import Head from "../components/head"
+import Head from "../components/Head"
 
 const Error = () => {
   return (
