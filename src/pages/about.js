@@ -1,10 +1,12 @@
 import React from "react"
 import { Link } from "gatsby"
 import Layout from "../components/Layout"
+import Head from "../components/head"
 
 const About = () => {
   return (
     <Layout>
+      <Head title="About"></Head>
       <div className="">
         <h1>About</h1>
         <h2>I'm Conor, a Full Stack Developer living in Ireland</h2>
